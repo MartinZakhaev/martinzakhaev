@@ -1,4 +1,6 @@
-https://cdn.discordapp.com/attachments/1072210515457224754/1143966955838115910/front-end.mp4
+
+https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/2ca2572f-2e63-41ab-a693-0e7a02130360
+
 
 <h1 align="center">Hi 👋, I'm Andika Wahyu Syaputra</h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
