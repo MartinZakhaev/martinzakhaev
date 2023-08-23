@@ -1,6 +1,6 @@
-
-https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/2ca2572f-2e63-41ab-a693-0e7a02130360
-
+<video controls loop>
+  <source src="https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/2ca2572f-2e63-41ab-a693-0e7a02130360" type="video/mp4">
+</video>
 
 <h1 align="center">Hi 👋, I'm Andika Wahyu Syaputra</h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
