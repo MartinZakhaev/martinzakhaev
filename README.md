@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/1072210515457224754/1143971490811891732/front-end.gif" width="960" alt="martinzakhaev" /> </p>
+<p align="left"> <img src="https://cdn.discordapp.com/attachments/1072210515457224754/1143971490811891732/front-end.gif" width="960" height="480" alt="martinzakhaev" /> </p>
 <h1 align="center">Hi 👋, I'm Andika Wahyu Syaputra</h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
 
