@@ -1,8 +1,10 @@
-<img src="https://cdn.discordapp.com/attachments/1072210515457224754/1143964899572207728/front-end-min.gif" alt="bannerandikagithub" />
+<video loop>
+  <source src="https://cdn.discordapp.com/attachments/1072210515457224754/1143966955838115910/front-end.mp4" type="video/mp4">
+</video>
 <h1 align="center">Hi 👋, I'm Andika Wahyu Syaputra</h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=martinzakhaev&label=Profile%20views&color=0e75b6&style=flat" alt="martinzakhaev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinzakhaev&label=Profile%20views&color=0e75b6&style=flat" alt="martinzakhaev" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js**
 
