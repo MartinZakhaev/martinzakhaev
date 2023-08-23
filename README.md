@@ -7,6 +7,8 @@
 </h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
 
+<br/>
+
 - 🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js, MongoDB, Node.Js, Express.Js**
 
 - 💬 Ask me about **React.Js, Next.Js, MongoDB, Node.Js**
