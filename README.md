@@ -1,7 +1,9 @@
 
 ![front-end](https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/576440c0-2804-4c1e-bd67-8c3df7663842)
 
-<h1 align="center">Hi 👋, I'm Andika Wahyu Syaputra</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andika+Wahyu+Syaputra!;" />
+</h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinzakhaev&label=Profile%20views&color=0e75b6&style=flat" alt="martinzakhaev" /> </p>
