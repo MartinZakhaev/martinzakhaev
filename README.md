@@ -1,5 +1,4 @@
-https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/2ca2572f-2e63-41ab-a693-0e7a02130360
-
+<p align="left"> <img src="https://cdn.discordapp.com/attachments/1072210515457224754/1143971490811891732/front-end.gif" alt="martinzakhaev" /> </p>
 <h1 align="center">Hi 👋, I'm Andika Wahyu Syaputra</h1>
 <h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
 
