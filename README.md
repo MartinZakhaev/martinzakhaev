@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=martinzakhaev&label=Profile%20views&color=0e75b6&style=flat" alt="martinzakhaev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinzakhaev&label=Profile%20views&color=0e75b6&style=flat" alt="martinzakhaev" /> </p>
 
 ![front-end](https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/576440c0-2804-4c1e-bd67-8c3df7663842)
 
