@@ -47,7 +47,19 @@
 <br/>
 <hr/>
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinzakhaev&show_icons=true&theme=dark&locale=en&layout=compact" alt="martinzakhaev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinzakhaev&theme=dark" alt="martinzakhaev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinzakhaev&show_icons=true&theme=dark&locale=en" alt="martinzakhaev" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>   
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinzakhaev&show_icons=true&theme=dark&locale=en&layout=compact" alt="martinzakhaev" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinzakhaev&theme=dark" alt="martinzakhaev" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinzakhaev&show_icons=true&theme=dark&locale=en" alt="martinzakhaev" /></p>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Email!;I'm+always+down+to+collab+😁">
+</h3>
+
+<br/>
