@@ -17,8 +17,6 @@
 
 💬 Ask me about **React.Js, Next.Js, MongoDB, Node.Js**
 
-📫 How to reach me **andikawahyusyaputra@gmail.com**
-
 ⚡ Fun fact **Bananas are berries, but strawberries are not.**
 
 <br/>
