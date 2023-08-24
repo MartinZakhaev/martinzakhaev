@@ -9,15 +9,19 @@
 
 <br/>
 
-- 🔭 I’m currently working on **a team chat app (Terra Corner)**
+<div align="center">
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js, MongoDB, Node.Js, Express.Js**
+🔭 I’m currently working on **a team chat app (Terra Corner)**
 
-- 💬 Ask me about **React.Js, Next.Js, MongoDB, Node.Js**
+🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js, MongoDB, Node.Js, Express.Js**
 
-- 📫 How to reach me **andikawahyusyaputra@gmail.com**
+💬 Ask me about **React.Js, Next.Js, MongoDB, Node.Js**
 
-- ⚡ Fun fact **Bananas are berries, but strawberries are not.**
+📫 How to reach me **andikawahyusyaputra@gmail.com**
+
+⚡ Fun fact **Bananas are berries, but strawberries are not.**
+
+<br/>
 
 <div align="center"> 
   <a href="mailto:andikawahyusyaputra@gmail.com">
