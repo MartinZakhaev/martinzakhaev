@@ -31,6 +31,9 @@
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://stackoverflow.com/users/22363347/andika-wahyu-syaputra" target="_blank">
+     <img src="https://img.shields.io/badge/Stackoverflow-f2720c?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
