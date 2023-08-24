@@ -40,10 +40,9 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java,py,cpp,cs,dart,html,css,bootstrap,react,qt,tailwind,laravel,nodejs,nextjs,flutter,flask,express,ps,tensorflow,matlab,arduino,git,github,postman,selenium,mysql,mongodb,sqlite,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma" />
 </div>
 
 <br/>
