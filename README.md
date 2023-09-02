@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **a team chat app (Terra Corner)**
+🔭 I’m currently working on **a property management app (Terra Stay)**
 
 🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js, MongoDB, Node.Js, Express.Js**
 
